@@ -1,5 +1,4 @@
-<head>
-<tittle>Hi there</tittle>
+<h1></h1>Hi there</h1>
 
 <!--
 **ivan-dyuzhev/ivan-dyuzhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
