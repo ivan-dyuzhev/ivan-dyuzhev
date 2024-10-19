@@ -1,5 +1,5 @@
 <h1>Hey, I'm Ivan</h1>
-<p>I am a student at ABM college, learning cybersecurity.</p>
+<p>I am a student at ABM College, learning cybersecurity. &#128563;</p>
 <!--
 **ivan-dyuzhev/ivan-dyuzhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
